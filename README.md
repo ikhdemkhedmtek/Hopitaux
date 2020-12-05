@@ -1,4 +1,4 @@
-# Hopitaux
+# Etablissements Publics de Santé
 Mieux vaut prévenir que guérir.
 
 La liste incomplète des établissements a été extraite du [PNS](http://www.santetunisie.rns.tn/fr/component/eps/?option=com_eps):
